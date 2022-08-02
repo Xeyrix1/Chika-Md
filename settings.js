@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['436507000206999','436507000206999','436507000206999'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['4365070002069994'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '436507000206999' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6281280020649','6281280020649','6281280020649'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6281280020649'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6281280020649' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Xeyrix' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Xeyrix-Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Xeyrix' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = ''
-global.ig = ''
-global.mygc = ''
-global.myweb = ''
+global.youtube = 'https://m.youtube.com/channel/UCAjZC2TT0RvftAJ-TvasYvw'
+global.ig = 'https://instagram.com/riychdwayne'
+global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
+global.myweb = 'https://s.id/chikabot'
 global.email = 'Hendramllb414@gmail.com'
 global.region = 'Malaysia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© Xeyrix' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Xeyrix' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
